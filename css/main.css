@@ -113,7 +113,9 @@ body {
  * links - (_document-setup) 
  * ------------------------------------------------------------------- */
 .rakshit li {
+	position: absolute;
 	display: inline-block;
+	left: 50%;
 }
 
 a,
