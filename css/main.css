@@ -112,11 +112,16 @@ body {
 /* ------------------------------------------------------------------- 
  * links - (_document-setup) 
  * ------------------------------------------------------------------- */
-.rakshit li {
+
+.rakshit {
 	position: absolute;
-	display: inline-block;
-	font-size: 20px;
+	left: 50%;
 	
+}
+.rakshit li {
+	list-style: none;
+	display: inline-block;
+	font-size: 40px;	
 }
 
 a,
