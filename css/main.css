@@ -119,6 +119,7 @@ body {
 }
 
 ul#horizontal-list {
+	font-size: 30px;
 	min-width: 696px;
 	list-style: none;
 	padding-top: 20px;
