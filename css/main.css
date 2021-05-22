@@ -114,9 +114,14 @@ body {
  * ------------------------------------------------------------------- */
 
 #rakshit {
-	dislpay: flex;
-	felx-wrap: wrap;
+	dislpay: inline-block;
+	justify-content: center;
 	
+}
+
+#rakshit ul li{
+	list-style-type: none;
+	padding: 10px;
 }
 
 #social #container {
