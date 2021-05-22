@@ -114,28 +114,19 @@ body {
  * ------------------------------------------------------------------- */
 
 
-
-#rakshit ul li{
-	list-style-type: none;
-	padding: 10px;
+.rakshit {
+	display: table;   /* Allow the centering to work */
+	margin: 0 auto;
 }
 
-#social #container {
-  text-align: center;
-}
-
-#social #container ul {
-  float: center;
-}
-
-#social #container ul li {
-  float: center;
-  padding-left: 10px;
-  list-style-type: none;
-  width: 50%;
-  
-	
-}
+ul#horizontal-list {
+	min-width: 696px;
+	list-style: none;
+	padding-top: 20px;
+	}
+	ul#horizontal-list li {
+		display: inline;
+	}
 
 
 a,
