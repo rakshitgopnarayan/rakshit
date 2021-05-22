@@ -113,7 +113,11 @@ body {
  * links - (_document-setup) 
  * ------------------------------------------------------------------- */
 
-
+#rakshit {
+	dislpay: flex;
+	felx-wrap: wrap;
+	
+}
 
 #social #container {
   text-align: center;
