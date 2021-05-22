@@ -113,15 +113,9 @@ body {
  * links - (_document-setup) 
  * ------------------------------------------------------------------- */
 
-#rakshit {
-	dislpay: inline-block;
-	justify-content: center;
-	
-}
+
 
 #rakshit ul li{
-	dislpay: inline-block;
-	justify-content: center;
 	list-style-type: none;
 	padding: 10px;
 }
