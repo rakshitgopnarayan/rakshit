@@ -124,7 +124,7 @@ body {
 }
 
 #social #container ul li {
-  float: left;
+  float: center;
   padding-left: 10px;
   list-style-type: none;
   width: 50%;
