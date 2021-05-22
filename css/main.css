@@ -120,6 +120,8 @@ body {
 }
 
 #rakshit ul li{
+	dislpay: inline-block;
+	justify-content: center;
 	list-style-type: none;
 	padding: 10px;
 }
